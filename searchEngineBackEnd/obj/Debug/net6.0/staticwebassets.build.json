@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a6XX/8dGqB1v1MnTPP1M7ydWmqVZqTC6X02MkpjNYJI=",
+  "Source": "searchEngineBackEnd",
+  "BasePath": "_content/searchEngineBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
